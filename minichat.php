@@ -8,7 +8,7 @@
 
     <body>
         <form method="post" action="minichat_post.php">
-        <p>Pour pouvoir entrer sur le site sécurisée, vous devez entrer vos identifiants</p>
+        <p>Pour pouvoir entrer sur le site sécurisé, vous devez entrer vos identifiants</p>
         <P>Pseudo : <input type="string" name="pseudo"/></P>
         <p>Message : <input type="string" name="message"/></p>
         <p><input type="submit" value="Envoyer"></P>
